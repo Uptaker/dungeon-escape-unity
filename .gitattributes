@@ -1,1 +1,2 @@
 windows-build/Escape.zip filter=lfs diff=lfs merge=lfs -text
+webgl-build/Escape-webgl.zip filter=lfs diff=lfs merge=lfs -text
