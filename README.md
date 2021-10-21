@@ -1,5 +1,5 @@
 # Dungeon Escape
-Dungeon Escape minigame made in Unity
+Dungeon Escape minigame made in Unity. The player falls into a seemingly abandoned dungeon and must make it out via exploration and unlocking new areas.
 
 ## Features
 
@@ -25,11 +25,11 @@ Dungeon Escape minigame made in Unity
 * Navigate to localhost:<port>/index.html
 
 ## Screenshots
-  pic1
-  pic2
-  pic3
-  pic4
-  pic5
+  ![pic](/screenshots/1.jpg)
+  ![pic](/screenshots/2.jpg)
+  ![pic](/screenshots/3.jpg)
+  ![pic](/screenshots/4.jpg)
+  ![pic](/screenshots/5.jpg)
   
 ## Known bugs
 
