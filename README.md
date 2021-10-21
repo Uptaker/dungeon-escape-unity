@@ -3,7 +3,7 @@ Dungeon Escape minigame made in Unity. The player falls into a seemingly abandon
 
 ## Features
 
-* Quake-like movement (bunnyhopping, strafing)
+* Quake-like movement (bunnyhopping, strafing) - thanks to [WiggleWizard](https://github.com/WiggleWizard/quake3-movement-unity3d)
 * Door & Key system
 * Item examine system
 * Custom torch animations using particles
